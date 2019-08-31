@@ -5,4 +5,5 @@
     <string name="equal">=</string>
     <string name="division">/</string>
     <string name="multiplication">x</string>
+    <string name="cinco">5</string>
 </resources>
